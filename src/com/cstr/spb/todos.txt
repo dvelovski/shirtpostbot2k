@@ -1,0 +1,6 @@
+ - save posting preferences (NO NEED)
+ - store keys in the preference txt instead of hard-code (done)
+ - make it stop shitting itself when the image expects more lines than the template has (done)
+ - allow choosing a colour for text (done)
+ - implement random colour choice (done)
+

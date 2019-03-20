@@ -1,0 +1,19 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.cstr.spb;
+
+/**
+ *
+ * @author Dimitri Velovski
+ */
+public class ReturnedLikeData {
+    public int reactionCount = 0;
+    public String postID = "";
+    
+    public int getReactions(){
+        return reactionCount;
+    }
+}

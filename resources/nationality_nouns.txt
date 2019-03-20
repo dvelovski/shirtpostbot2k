@@ -1,0 +1,106 @@
+Afghan
+Algerian
+Angolan
+Argentine
+Austrian
+Australian
+Bangladeshi
+Belarusian
+Belgian
+Bolivian
+Bosnian
+Brazilian
+Briton
+Bulgarian
+Cambodian
+Cameroonian
+Canadian
+Central African
+Chadian
+Chinese person
+Colombian
+CostRican
+Croat
+Czech person
+Congolese person 
+Dane
+Ecuadorian
+Egyptian
+Salvadoran
+Estonian
+Ethiopian
+Finn
+Frenchman
+German
+Ghanaian
+Greek
+Guatemalan
+Dutchman
+Honduran
+Hungarian
+Icelander
+Indian
+Indonesian
+Iranian
+Iraqi
+Irishman
+Israeli
+Italian
+Ivorian
+Jamaican
+Japanese person
+Jordanian
+Kazakhstani
+Kenyan
+Laotian
+Latvian
+Libyan
+Lithuanian
+Malagasy
+Malaysian
+Malian
+Mauritanian
+Mexican
+Moroccan
+Namibian
+New Zealander
+Nicaraguan
+Nigerien
+Nigerian
+Norwegian
+Omani
+Pakistani
+Panamanian
+Paraguayan
+Peruvian
+Filipino
+Pole
+Portuguese person
+Congolese person
+Romanian
+Russian
+Saudi
+Scot
+Senegalese person
+Serbian
+Singaporean
+Slovak
+Somalian
+South African
+Spaniard
+Sudanese person
+Swede
+Swiss person
+Syrian
+Thai person
+Tunisian
+Turk
+Turkmen
+Ukranian
+Emirati
+American
+Uruguayan
+Vietnamese person
+Welshman/Welshwoman
+Zambian
+Zimbabwean

@@ -1,0 +1,49 @@
+belt
+beret
+baseball cap
+bowler hat
+hood
+helmet
+turban
+veil
+choker
+cravat
+necktie
+boots
+cap
+coat
+dress
+gloves
+hat
+jacket
+jeans
+pajamas
+pants
+raincoat
+scarf
+shirt
+skirt
+slacks
+socks
+stockings
+suit
+sweater
+sweatshirt
+t-shirt
+tie
+trousers
+underclothes
+underpants
+undershirt
+thigh highs
+programming socks
+fursuit
+nightgown
+pajamas
+dressing gown
+blazer
+tailcoat
+apron
+pantsuit
+hazmat suit
+waistcoat
